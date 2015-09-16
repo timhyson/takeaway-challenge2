@@ -1,0 +1,100 @@
+def windows
+end
+def windowsexit
+ecit
+quit
+cd ~
+cd exit
+inheritance\ or \composition.rb
+inheritance_or_composition.rb
+@board.receive_a_hit('A2')
+board = Board.new
+board.receive_a_hit('A2')
+board.receive_a_hit('A1')
+player.receive_hit('A1')
+@misses
+p
+board.place(ship)
+p.receive_hit('A1')
+b= Board.new
+b.place(ship)
+p.receive_hit 'A1'
+ship.hits?
+ship.was_hit
+ship.afloat?
+exit]
+"hello".sub(/./){|s|s.ord.to_s + ' '}
+"hello".sub(/l/){|s|s.ord.to_s + ' '}
+a.ord
+'a'.ord
+'b'.ord
+'A'.ord
+'B'.ord
+"A1".sub(/./){|s|s.ord.to_s + ' '}
+"A1".sub(/./){|s|(s.ord-65).to_s + ' '}
+"A1".sub(/./){|s|(s.ord-64).to_s + ' '}
+"A1, B1".sub(/./){|s|(s.ord-64).to_s + ' '}
+"A,1".sub(/./){|s|(s.ord-64).to_s + ' '}
+"A1, B1, C1".sub(/[aeiou]/){|s|(s.ord-64).to_s + ' '}
+"A1, B1, C1".gsub(/[AEIOU]/){|s|(s.ord-64).to_s + ' '}
+"A1, B1, C1".sub(/[AEIOU]/).each {|s|(s.ord-64).to_s + ' '}
+"A1, B1, C1".sub(/[AEIOU]/){|s|(s.ord-64).to_s + ' '}
+s = Ship.new
+s = Ship.new('A1')
+p.place(s)
+s2 = Ship.new('A1')
+p.place s2
+ship = Ship.new 'A1'
+ship = Ship.new('A1')
+p.place(ship)
+ship = Ship.new
+ship = Ship.new("A1")
+ship.position
+ship1 = Ship.new 'A1'
+ship2 = Ship.new 'A1'
+p.place ship1
+p.place ship2
+s1 = Ship.new 'A1'
+s2 = Ship.new 'A1'
+s1.position
+p.position
+p.board
+exirt 
+exit 
+p = Player.new
+b.place(sub, 'A1', :S)
+b.place(sub, 'A1', 'S')
+sub = Sub.new
+b.hit('A1')
+b.fire('A1')
+b = Board.new
+sub = Submarine.new
+b.place(sub, 'E5', 'S')
+b.fire('E5')
+b.fire('D6')
+b.fire('D5')
+b
+require './lib/menu.rb'
+menu.dishes
+exixt
+menu.price["Papadom"]
+require './lib/customer'
+menu.display_menu
+menu = Menu.new
+menu.price
+eit
+tim.display_menu
+order
+tim.add_to_order("Papadom")
+tim = Customer.new
+@order
+tim.add_to_order("Papadom", 2)
+tim.review_order
+require './lib/takeaway'
+t = Takeaway.new
+t.delivery_time
+t = TwilioAPI.new
+t.order_confirmation
+t = Customer.new
+t.add_to_order('Papapdom', 3)
+exit
